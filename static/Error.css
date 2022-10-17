@@ -1,0 +1,41 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #CCD1D6;
+}
+div.contact {
+  align-items: baseline;
+  padding-top: 5px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+}
+.fb {
+  background-color: grey;
+  border: none;
+  color: white;
+  padding: 5px 25px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 13px;
+  margin: 4px 2px;
+  transition-duration: 0.2s;
+  cursor: pointer;
+}
+.fb:hover {
+  background-color: EDE8E5;
+  color: black;
+  border: 2px solid EDE8E5;
+}
+.shook {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+  height: 220px
+}
+.text {
+  color: grey;
+}
+.image {
+  padding-top: 100px
+}
